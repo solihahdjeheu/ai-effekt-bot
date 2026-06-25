@@ -1,0 +1,2 @@
+# ai-effekt-bot
+Salom
